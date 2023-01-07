@@ -1,0 +1,1 @@
+Hi I'm Andrew. I'm a passionate frontend developer, visual/UI designer, writer, and musician.  I build websites, CMSs, and web applications, design user interfaces and marketing content, and write and edit copy specifically for web presentation.   
